@@ -1,4 +1,4 @@
-# VentuskyWebView [ electron ]
+# VentuskyWebView [ electron ⚛️ ]
 
 An Electron application to view the Ventusky.com site in a WebView window.
 
