@@ -12,8 +12,8 @@ An Electron application to view the Ventusky.com site in a WebView window.
 1. Clone the repository:
 
  ```bash
- git clone https://github.com/tuo-username/VentuskyWebView.git
- cd VentuskyWebView
+ git clone https://github.com/mgxy0/VentuskyWebView.git
+ cd VentuskyWebView/electron
  ```
 
 2. Install dependencies:
