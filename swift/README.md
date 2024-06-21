@@ -12,13 +12,11 @@ A macOS application written in Swift to display the Ventusky.com site in a WebVi
 1. Clone the repository:
 
  ```bash
- git clone https://github.com/tuo-username/VentuskyWebView.git
- cd VentuskyWebView
+ git clone https://github.com/mgxy0/VentuskyWebView.git
+ cd VentuskyWebView/swift
  ```
 
-2. Create the `ventusky_webview.swift` file with the following contents:
-
-3. Compile the Swift file:
+2. Compile the Swift file:
 
  ```bash
  swiftc -o VentuskyWebView ventusky_webview.swift
