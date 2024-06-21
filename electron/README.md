@@ -1,30 +1,30 @@
 # VentuskyWebView [ electron ]
 
-Un'applicazione Electron per visualizzare il sito Ventusky.com in una finestra WebView.
+An Electron application to view the Ventusky.com site in a WebView window.
 
-## Prerequisiti
+## Prerequisites
 
 - Node.js (https://nodejs.org/)
 - npm (https://www.npmjs.com/)
 
-## Installazione
+## Installation
 
-1. Clona il repository:
+1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/tuo-username/VentuskyWebView.git
-   cd VentuskyWebView
-   ```
+ ```bash
+ git clone https://github.com/tuo-username/VentuskyWebView.git
+ cd VentuskyWebView
+ ```
 
-2. Installa le dipendenze:
+2. Install dependencies:
 
-   ```bash
-   npm install
-   ```
+ ```bash
+ npm install
+ ```
 
-## Esecuzione dell'applicazione
+## Running the application
 
-Per eseguire l'applicazione Electron, utilizza il seguente comando:
+To run the Electron application, use the following command:
 
 ```bash
 npm start
