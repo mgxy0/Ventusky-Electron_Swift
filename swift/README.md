@@ -1,4 +1,4 @@
-# VentuskyWebView [ swift ]
+# VentuskyWebView [ swift 🐦‍⬛ ]
 
 A macOS application written in Swift to display the Ventusky.com site in a WebView window.
 
