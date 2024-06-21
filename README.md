@@ -2,6 +2,9 @@
 
 VentuskyWebView is a cross-platform application developed with Electron that allows you to view the Ventusky website in a WebView window. 
 Ventusky.com is a global weather visualization service that provides detailed information on temperature, precipitation, wind speed, and more.
+![Screenshot 2024-06-21 alle 23 01 42](https://github.com/mgxy0/Ventusky-WebViewApp/assets/127632468/6f4d6831-7f56-4972-a426-d7aab5af5232)
+
+
 
 ## Description 
 
